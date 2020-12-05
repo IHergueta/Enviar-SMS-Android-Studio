@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjercicioSMS</string>
+    <string name="titulo">App transmisora de SMS</string>
+    <string name="hint">Nuevo receptor</string>
+    <string name="button_mandar">Mandar SMS</string>
+</resources>
